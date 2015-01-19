@@ -1,4 +1,4 @@
-# holman/feedback
+# arandilopez/feedback
 
 This is a quick little ask-me-anything type of repository.
 
