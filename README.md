@@ -7,6 +7,8 @@ If you have any technical problems with Git or GitHub, you're still better off
 if you [ask GitHub Support directly](https://github.com/contact), since you'll
 end up getting a much faster response back that way.
 
+You can ask about what you want, even life...
+
 ---
 
 ### Ask a question
@@ -36,3 +38,5 @@ into some of the older threads.
 If you have something quick and easy, just ping me on Twitter. 140 characters
 makes everyone more efficient. I'm [@arandilopez](https://twitter.com/arandilopez) on
 Twitter.
+
+Cheers. :heart:
